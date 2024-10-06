@@ -1,0 +1,1 @@
+Animated GIF Maker is a web-based tool built with Python and Streamlit that converts video files (e.g., MP4, MOV) into animated GIFs. Users can upload a video, adjust parameters like resolution, speed, duration, and frames per second, and then generate a downloadable GIF from the selected portion of the video.
