@@ -10,3 +10,5 @@ Key Features:
 - Preview: A single frame from the video is previewed.
 - GIF Generation: The selected portion of the video is processed and exported as an animated GIF.
 - Download: The generated GIF can be downloaded directly from the app.
+
+The app uses moviepy for video processing and Pillow for image handling.
