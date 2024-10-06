@@ -2,8 +2,6 @@ Animated GIF Maker is a web-based tool built with Python and Streamlit that conv
 
 ![App Screenshot](https://raw.githubusercontent.com/TejasMehra/animated-gif/refs/heads/main/prototype.png)
 
-The app uses moviepy for video processing and Pillow for image handling.
-
 Key Features:
 - File Upload: Users can upload a video.
 - Custom Settings: Sliders let users adjust video resolution, playback speed, and the range of video to convert.
