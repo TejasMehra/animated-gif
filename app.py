@@ -19,7 +19,7 @@ if 'clip_fps' not in st.session_state:
 if 'clip_total_frames' not in st.session_state:
     st.session_state.clip_total_frames = 0  
     
-st.title('🎈 Animated GIF Maker')
+st.title('Animated GIF Maker 👾')
 
 ## Upload file ##
 st.sidebar.header('Upload file')
@@ -28,7 +28,7 @@ st.sidebar.markdown('''
 [Download example file](https://github.com/dataprofessor/animated-gif/raw/master/example/streamlit-app-starter-kit-screencast.mov)
 
 ---
-Made with ❤️ by Tejas Mehra
+
 ''')
 
 #[Data Professor](https://youtube.com/dataprofessor)) - add hyperlink
