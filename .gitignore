@@ -1,0 +1,18 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore temporary files and system files
+*.pyc
+*.pyo
+__pycache__/
+*.DS_Store
+
+# Ignore generated GIFs
+*.gif
+
+# Ignore other temporary files
+*.tmp
+*.log
+
+# Ignore package manager files
+packages.txt
